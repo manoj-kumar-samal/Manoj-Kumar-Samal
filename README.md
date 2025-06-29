@@ -1,17 +1,22 @@
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 <p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Manoj+Kumar+Samal..;Full+Stack+Developer;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
-    
+  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Manoj+Kumar+Samal..;Full+Stack+Developer;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true">
+</p>
+
+---
+
+### 👋 About Me
+
+- 🔭 I’m currently working on **a full-stack job portal application using the MERN stack**
+- 🌱 I’m currently learning **Next.js, System Design, and Advanced Redux Toolkit**
+- 👯 I’m looking to collaborate on **open-source MERN stack projects and real-world web apps**
+- 🤔 I’m looking for help with **cloud deployment strategies and scalable backend architectures**
+- 💬 Ask me about **React, Node.js, MongoDB, Firebase, and any full-stack queries**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/manoj-kumar-samal/) | [Email](mailto:manojsamal88@gmail.com)**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I love turning complex problems into simple, beautiful, and intuitive web experiences**
+
+---
+
 
     
     
