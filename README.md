@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on **open-source MERN stack projects and real-world web apps**
 - 🤔 I’m looking for help with **cloud deployment strategies and scalable backend architectures**
 - 💬 Ask me about **React, Node.js, MongoDB, Firebase, and any full-stack queries**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/manoj-kumar-samal/) | [Email](mailto:manojsamal88@gmail.com)**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/manoj-kumar-samal/) | [Email](mailto:manojkumarsamal2002@gmail.com)**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love turning complex problems into simple, beautiful, and intuitive web experiences**
 
